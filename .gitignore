@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb
+submission.csv
