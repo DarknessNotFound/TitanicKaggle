@@ -1,6 +1,6 @@
 linear,relu,relu,,
 256,128,32
-Linear,Conv2D,Conv2D,Relu,Relu
+linear,relu,relu,relu,relu
 512,128,16,16,8
-Linear,Conv2D,Relu,Relu
+linear,relu,relu,relu
 256,32,32,4
